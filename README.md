@@ -2,7 +2,7 @@
 Most of my configuration files and others.
 
 ## TODO
-- [ ] bashrc
+- [x] bashrc
 - [ ] neovim
 - [ ] neofetch
 - [ ] terminal
